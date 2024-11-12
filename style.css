@@ -161,3 +161,39 @@
     font-size: 16px;
     margin-top: 10px;
 }
+
+.txt{
+    width: 400px; 
+    height: 300px;
+    margin: 0 100px;
+}
+
+.txt2{
+    width: 400px; 
+    height: 300px;
+    margin: 0 100px;
+}
+
+.txt3{
+    width: 400px; 
+    height: 300px;
+    margin: 0 100px;
+}
+
+.txt p{
+    color: black;
+    font-size: 14px;
+    margin-top: 10px
+}
+
+.txt2 p{
+    color: black;
+    font-size: 14px;
+    margin-top: 10px
+}
+
+.txt3 p{
+    color: black;
+    font-size: 14px;
+    margin-top: 10px
+}
